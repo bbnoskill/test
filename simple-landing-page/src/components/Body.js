@@ -1,11 +1,6 @@
 import React from "react";
 
 const Body = () => {
-  return (
-    <main style={styles.body}>
-     
-    </main>
-  );
 };
 
 
