@@ -14,7 +14,7 @@ const Body = () => {
         <img src={"/photo_2024-11-19_15-44-43.jpg"} alt="Andriievskyi Vladyslav" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Andriievskyi Vladyslav</h2>
-          <p style={styles.position}>Scrum Master</p
+          <p style={styles.position}>Scrum Master</p>
         </div>
   
       </div>
